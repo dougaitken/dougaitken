@@ -1,7 +1,17 @@
-### Hi there 👋
+Hello 👋🏻
 
-<!--
-**dougaitken/dougaitken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Doug Aitken](https://www.dougaitken.co.uk) is a man of many sides. He's a great mix of support, technical, analytical, and banter.
+
+He is lucky to work with a lot of fine folk doing WooCommerce.com Support for that lovely distributed company, Automattic.
+
+🤓 He leads a project listing tech related companies who hire remotely - [Remote In Tech](https://remoteintech.company/).
+
+The usual outputs apply:
+* 💬🐦 [twitter](https://twitter.com/dougaitken)
+* 📝 [doug dot blog](https://doug.blog)
+* 🎵 [last.fm](https://last.fm/user/takealeft)
+* 🖥️ And this here GitHub
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
