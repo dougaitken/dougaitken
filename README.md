@@ -11,3 +11,5 @@ The usual outputs apply:
 * 📝 [doug dot blog](https://doug.blog)
 * 🎵 [last.fm](https://last.fm/user/takealeft)
 * 🖥️ And this here GitHub
+
+[![@doug's Holopin board](https://holopin.me/doug)](https://holopin.io/@doug)
